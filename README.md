@@ -9,7 +9,12 @@
   - Seperating outliers
   - Increasing the effect of some features
  
-- Comparing different algorithms
+- Comparing different algorithms :
+  - LinearRegression
+  - Ridge
+  - Lasso
+  - ElasticNet
+  - ExtraTreeRegressor
 
 ## PACKAGES TO BE DOWNLOADED :
 
